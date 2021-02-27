@@ -1,4 +1,4 @@
-# Data_Visulization_Matplotlib
+# Data_Visualization_Matplotlib
 This repo includes
 
 * How to create basic plots using matplotlib functions
